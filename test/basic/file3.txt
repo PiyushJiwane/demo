@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sd
 fs
 df
@@ -8,3 +9,6 @@ sd
 f
 sd
 
+=======
+This is an example
+>>>>>>> fe15ac8b630359090f9f0483db75480ba674e7c9
